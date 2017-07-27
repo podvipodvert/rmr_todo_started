@@ -1,0 +1,3 @@
+rootProject.name = 'rmr_starter'
+
+include ':app'
